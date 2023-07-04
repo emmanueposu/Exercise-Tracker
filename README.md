@@ -1,0 +1,1 @@
+This project is a full stack MERN app that allows a user to track their exercises. The user can create, read, update, and delete exercises.
