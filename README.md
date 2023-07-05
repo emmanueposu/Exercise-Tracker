@@ -10,4 +10,4 @@ Please note that spin up time can take upwards of 30 seconds.
 
 UI screenshot:
 
-![create](https://github.com/emmanueposu/Exercise-Tracker/assets/102590682/279b7f31-0e19-4dd2-8c68-53432aa861ed)
+![create](https://github.com/emmanueposu/Exercise-Tracker/assets/102590682/ff8e13f7-a741-44bb-9676-036251ab2fea)
